@@ -3,7 +3,7 @@
 ## Proje Açıklaması
 
 Bu projemde Firebase kullanarak basit bir instagram clone versiyonu yapmaya çalıştım. Kullanıcının eklediği e-mail, şifresi,
-yüklediği fotoğraf ve yorumları firebase veritabanına ekleniyor ve buradan çekiliğ kullanıcıya sunuluyor.</br>
+yüklediği fotoğraf ve yorumları firebase veritabanına ekleniyor ve buradan çekilip kullanıcıya sunuluyor.</br>
 
 ## Proje Kullanımı
 
